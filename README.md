@@ -27,3 +27,24 @@ This will be a mobile Dapp installed on the user’s mobile phone. The mobile ap
 
 ## Project Implementation
 We will use Brownie Framework to implement the project. Brownie is a Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine. Brownie has a template system called Brownie Mixes, which we can use as a starting point for specific types of smart contract projects. There is a mix called react-mix, which “comes with everything you need to start using React with a Brownie project”. We will use the react-mix for this project.
+
+
+## Installations
+Remix IDE -https://remix.ethereum.org/
+
+Node.JS - https://nodejs.org
+
+pip install eth-brownie
+
+## Key
+Requirements - https://github.com/Stella-Mutacho/Web3-Refund-by-Location-Smart-Contract/blob/main/requirements.txt
+
+Smart contract code - https://github.com/Stella-Mutacho/Web3-Refund-by-Location-Smart-Contract/tree/main/contract
+
+Tests - https://github.com/Stella-Mutacho/Web3-Refund-by-Location-Smart-Contract/tree/main/tests
+
+Employer webapp - https://github.com/Stella-Mutacho/Web3-Refund-by-Location-Smart-Contract/tree/main/webapp
+
+Employee mobileapp- https://github.com/Stella-Mutacho/Web3-Refund-by-Location-Smart-Contract/tree/main/employee
+
+React mix - https://github.com/brownie-mix
